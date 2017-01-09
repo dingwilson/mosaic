@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "58A3BB83B97FD9AF5351C93669535BBB61307086",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "58A3BB83B97FD9AF5351C93669535BBB61307086" : 9223372036854775807,
+    "5BEA8F1244C01B4A884362747C87D00DEDD1FFBC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E87543C4-92B5-4053-8611-0D529F2C6C51",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "58A3BB83B97FD9AF5351C93669535BBB61307086" : "mosaic\/",
+    "5BEA8F1244C01B4A884362747C87D00DEDD1FFBC" : "GrubHub\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mosaic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mosaic.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dingwilson\/mosaic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58A3BB83B97FD9AF5351C93669535BBB61307086"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:dingwilson\/GrubHub.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BEA8F1244C01B4A884362747C87D00DEDD1FFBC"
+    }
+  ]
+}
